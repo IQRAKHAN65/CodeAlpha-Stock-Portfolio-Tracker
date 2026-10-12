@@ -1,0 +1,13 @@
+===== STOCK PORTFOLIO SUMMARY =====
+
+Stock: AAPL
+Quantity: 5
+Price per share: $180
+Investment: $900
+
+Stock: TSLA
+Quantity: 2
+Price per share: $250
+Investment: $500
+
+Total Investment: $1400
