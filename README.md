@@ -44,7 +44,7 @@ Stock Portfolio Tracker Running in the Terminal
 
 This screenshot shows the application accepting stock symbols and quantities, calculating individual investment values, and displaying the total portfolio investment.
 
-"Stock Portfolio Tracker Output" (screenshots/stock-portfolio-tracker.png)
+"Stock Portfolio Tracker Output" (screenshots/stock-portfolio-tracker.png.png)
 
 # Saved Portfolio Report:
 
